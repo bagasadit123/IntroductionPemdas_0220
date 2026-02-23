@@ -8,4 +8,8 @@ int main(){
     //variabel lokal
     int umur;
     umur = 20;
+
+    cout << "Halo Mas Hamzah" << endl;
+    cout << 10 << endl;
+    cout << umur;
 }
