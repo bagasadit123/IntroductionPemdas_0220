@@ -9,4 +9,9 @@ int main(){ //mulai
     cin >> p;
     
     //langkah 3
-    cout << "Masukkan Lebar : ";}
+    cout << "Masukkan Lebar : ";
+    cin >> l;
+
+    //langkah 4
+    luas = p * l;
+  }
